@@ -1,2 +1,3 @@
-print('Поиграем?') 
-count = 0 
+gitprint('Поиграем?')
+count = 0
+   
